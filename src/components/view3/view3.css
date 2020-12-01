@@ -1,0 +1,11 @@
+.view3 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 350px;
+    width: 350px;
+    color: black;
+    background-color: lightcoral;
+    border: 1px solid black;
+}

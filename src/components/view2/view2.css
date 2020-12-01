@@ -1,0 +1,11 @@
+.view2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 450px;
+    width: 450px;
+    color: black;
+    background-color: lightgreen;
+    border: 1px solid black;
+}
